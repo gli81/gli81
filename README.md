@@ -1,4 +1,4 @@
-### JUST WANT TO FIND OUT THE PROFILE REAME THING
+### JUST WANT TO FIND OUT THE PROFILE README THING
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula)]
 
