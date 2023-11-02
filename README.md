@@ -1,6 +1,6 @@
 ### JUST WANT TO FIND OUT THE PROFILE README THING
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning&exlude_repo=gl_mod)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning&exclude_repo=gl_mod)
 
 <!--
 **gli81/gli81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
