@@ -3,8 +3,10 @@
 <a href="https://www.linkedin.com/in/gavinligz">
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<br />
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning,gl_mod)
+
 
 <!--
 **gli81/gli81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
