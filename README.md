@@ -19,7 +19,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.google.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.google.com)
 
-[![Django]()](https://www.google.com)
+[![Django](https://img.shields.io/badge/-Django-%230c4b33?style=flat&logo=django)](https://www.google.com)
 [![Spring]()](https://www.google.com)
 [![Flask]()](https://www.google.com)
 [![JQuery]()](https://www.google.com)
