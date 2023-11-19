@@ -24,10 +24,11 @@
 [![Django](https://img.shields.io/badge/-Django-%230c4b33?style=flat&logo=django)](https://www.google.com)
 [![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=%23ffffff)](https://spring.io)
 [![Flask]()](https://www.google.com)
-[![JQuery]()](https://www.google.com)
+[![JQuery](https://img.shields.io/badge/-JQuery-%230769AD?style=flat&logo=jquery&logoColor=%23ffffff)](https://www.google.com)
 <!--
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.google.com)
+[![Express]()](https://www.google.com)
 -->
 
 [![Tidyverse](https://img.shields.io/badge/-Tidyverse-%231A162D?style=flat&logo=tidyverse&logoColor=%23ffffff)](https://www.google.com)
@@ -37,12 +38,13 @@
 [![Hadoop](https://img.shields.io/badge/-Hadoop-%237ac0da?style=flat&logo=apachehadoop&logoColor=%23f5f701)](https://www.google.com)
 [![Spark](https://img.shields.io/badge/-Spark-%233a383c?style=flat&logo=apachespark)](https://www.google.com)
 
-
+[![Kafka]()](https://www.google.com)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://www.google.com)
-[![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://www.google.com)
+[![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=%23ffffff)](https://www.google.com)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=%23ffffff)](https://www.google.com)
+[![Hive]()](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://www.google.com)
 
 
