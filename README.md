@@ -26,6 +26,9 @@
 -->
 
 [![Tidyverse]()](https://www.google.com)
+[![NumPy]()](https://www.google.com)
+
+[![Hadoop](https://img.shields.io/badge/-Hadoop-%237ac0da?style=flat&logo=apachehadoop&logoColor=%23f5f701)](https://www.google.com)
 
 
 
