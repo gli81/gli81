@@ -1,4 +1,8 @@
-### JUST WANT TO FIND OUT THE PROFILE README THING
+### Hello! I'm Gavin Li
+
+<a href="https://www.linkedin.com/in/gavinligz">
+<img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning,gl_mod)
 
