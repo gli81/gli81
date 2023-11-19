@@ -16,6 +16,8 @@
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=flat&logo=scala)](https://www.google.com)
 [![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=flat&logo=go&logoColor=%23ffffff)](https://www.google.com)
 
+[![Markdown]()](https://www.google.com)
+[![LaTex]()](https://www.google.com)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://www.google.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.google.com)
 
@@ -37,7 +39,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)](https://www.google.com)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)](https://www.google.com)
 
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)](https://www.google.com)
+[![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=%23ffffff)](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb)](https://www.google.com)
 
 
