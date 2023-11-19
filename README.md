@@ -1,4 +1,4 @@
-### Hello! I'm Gavin Li
+### Hello! I'm Gavin Li, a Data Science student at Duke University
 
 <a href="https://www.linkedin.com/in/gavinligz">
 <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
