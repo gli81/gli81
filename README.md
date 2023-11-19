@@ -7,12 +7,12 @@
 
 ### Language and Tools
 
-<!--[![Python](https://img.shields.io/badge/-Python-%23ffd343?style=flat&logo=Python)](https://www.google.com)-->
+<!--[![Python](https://img.shields.io/badge/-Python-%23ffd343?style=flat&logo=python)](https://www.google.com)-->
 <!--[![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=%23ffd343)](https://www.google.com)-->
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&labelColor=%23ffd343)](https://www.google.com)
 [![R](https://img.shields.io/badge/-R-%23276DC2?style=flat&logo=R)](https://www.google.com)
 [![Java](https://img.shields.io/badge/-Java-%23f89820?style=flat&logo=joplin)](https://www.google.com)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://www.google.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23fcdc00?style=flat&logo=javascript&logoColor=%23ffffff)](https://www.google.com)
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=flat&logo=scala)](https://www.google.com)
 [![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=flat&logo=go&logoColor=%23ffffff)](https://www.google.com)
 
