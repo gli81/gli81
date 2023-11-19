@@ -24,7 +24,7 @@
 -->
 
 [![Markdown](https://img.shields.io/badge/-Markdown-%2321a2e3?style=for-the-badge&logo=markdown&logoColor=%23ffffff)](https://www.markdownguide.org/)
-[![LaTex]()](https://www.google.com)
+[![LaTex](https://img.shields.io/badge/-LaTex-%23008080?style=for-the-badge&logo=latex&logoColor=%23ffffff)](https://www.latex-project.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=%23ffffff)](https://www.google.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)](https://www.google.com)
 
