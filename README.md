@@ -22,15 +22,17 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://www.google.com)
 
 [![Django](https://img.shields.io/badge/-Django-%230c4b33?style=flat&logo=django)](https://www.google.com)
-[![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=%23ffffff)](https://www.google.com)
+[![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=flat&logo=spring&logoColor=%23ffffff)](https://spring.io)
 [![Flask]()](https://www.google.com)
 [![JQuery]()](https://www.google.com)
 <!--
+[![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.google.com)
 -->
 
-[![Tidyverse]()](https://www.google.com)
+[![Tidyverse](https://img.shields.io/badge/-Tidyverse-%231A162D?style=flat&logo=tidyverse&logoColor=%23ffffff)](https://www.google.com)
 [![NumPy]()](https://www.google.com)
+[![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=%23ffffff)](https://www.google.com)
 
 [![Hadoop](https://img.shields.io/badge/-Hadoop-%237ac0da?style=flat&logo=apachehadoop&logoColor=%23f5f701)](https://www.google.com)
 [![Spark](https://img.shields.io/badge/-Spark-%233a383c?style=flat&logo=apachespark)](https://www.google.com)
