@@ -9,7 +9,7 @@
 
 <!--[![Python](https://img.shields.io/badge/-Python-%23ffd343?style=flat&logo=Python)](https://www.google.com)-->
 [![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&labelColor=%23ffd343)](https://www.google.com)
-[![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logColor=%23ffd343)](https://www.google.com)
+[![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=%23ffd343)](https://www.google.com)
 
 [![R](https://img.shields.io/badge/-R-%23276DC2?style=flat&logo=R)](https://www.google.com)
 [![Java](https://img.shields.io/badge/-Java-%23f89820?style=flat&logo=joplin)](https://www.google.com)
