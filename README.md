@@ -53,7 +53,7 @@
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff)](https://www.google.com)
 [![Hive]()](https://www.google.com)
-[![PostgresQL]()](https://www.google.com)
+[![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=for-the-badge&logo=mongodb)](https://www.google.com)
 
 
