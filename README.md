@@ -54,7 +54,7 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff)](https://www.google.com)
 [![Hive](https://img.shields.io/badge/-Hive-%23CAB108?style=for-the-badge&logo=apachehive&logoColor=%23000000)](https://www.google.com)
 [![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=for-the-badge&logo=mongodb)](https://www.google.com)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=for-the-badge&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)
 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning,gl_mod)
