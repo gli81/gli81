@@ -39,8 +39,9 @@
 -->
 
 [![Tidyverse](https://img.shields.io/badge/-Tidyverse-%231A162D?style=for-the-badge&logo=tidyverse&logoColor=%23ffffff)](https://www.google.com)
-[![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge-square&logo=numpy)](https://www.google.com)
+[![NumPy](https://img.shields.io/badge/-NumPy-%23013243?style=for-the-badge&logo=numpy)](https://www.google.com)
 [![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23ffffff)](https://www.google.com)
+[![PyTorch](https://img.shields.io/badge/-PyTorch-%23000000?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 
 [![Hadoop](https://img.shields.io/badge/-Hadoop-%237ac0da?style=for-the-badge&logo=apachehadoop&logoColor=%23f5f701)](https://www.google.com)
 [![Spark](https://img.shields.io/badge/-Spark-%233a383c?style=for-the-badge&logo=apachespark)](https://www.google.com)
