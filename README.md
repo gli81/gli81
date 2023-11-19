@@ -9,10 +9,12 @@
 
 [![Python](https://img.shields.io/badge/-Python-%23ffd343?style=flat&logo=Python)](https://www.google.com)
 [![R](https://img.shields.io/badge/-R-%23276DC2?style=flat&logo=R)](https://www.google.com)
-
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+[![Java](https://img.shields.io/badge/-Java-%23f89820?style=flat&logo=joplin)](https://www.google.com)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)](https://github.com/BRdhanani)
+[![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=flat&logo=scala)](https://www.google.com)
+[![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=flat&logo=goland)](https://www.google.com)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/BRdhanani) 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)](https://github.com/BRdhanani) 
 
 <!--
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://www.google.com)
