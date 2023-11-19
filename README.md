@@ -56,6 +56,7 @@
 [![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=for-the-badge&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)
 
+### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express)](https://www.google.com)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning,gl_mod)
 
