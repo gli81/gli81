@@ -20,7 +20,7 @@
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=for-the-badge&logo=scala)](https://www.google.com)
 [![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=for-the-badge&logo=go&logoColor=%23ffffff)](https://www.google.com)
 <!--
-[![Nodejs]()](https://www.google.com)
+[![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=for-the-badge&logo=nodedotjs)](https://www.google.com)
 -->
 
 [![Markdown](https://img.shields.io/badge/-Markdown-%2321a2e3?style=for-the-badge&logo=markdown&logoColor=%23ffffff)](https://www.markdownguide.org/)
@@ -35,7 +35,7 @@
 <!--
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://www.google.com)
-[![Express]()](https://www.google.com)
+[![Express](https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express)](https://www.google.com)
 -->
 
 [![Tidyverse](https://img.shields.io/badge/-Tidyverse-%231A162D?style=for-the-badge&logo=tidyverse&logoColor=%23ffffff)](https://www.google.com)
@@ -52,7 +52,7 @@
 [![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23ffffff)](https://www.google.com)
 
 [![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=%23ffffff)](https://www.google.com)
-[![Hive]()](https://www.google.com)
+[![Hive](https://img.shields.io/badge/-Hive-%23CAB108?style=for-the-badge&logo=apachehive&logoColor=%23000000)](https://www.google.com)
 [![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=for-the-badge&logo=mongodb)](https://www.google.com)
 
