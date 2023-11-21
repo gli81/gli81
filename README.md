@@ -47,7 +47,7 @@
 [![Spark](https://img.shields.io/badge/-Spark-%233a383c?style=for-the-badge&logo=apachespark)](https://www.google.com)
 
 [![Kafka](https://img.shields.io/badge/-Kafka-%2331759e?style=for-the-badge&logo=apachekafka)](https://www.google.com)
-[![Tomcat](https://img.shields.io/badge/-Tomcat-%23c4a03c?logo=apachetomcat&logoColor=%23000000)](https://www.google.com)
+[![Tomcat](https://img.shields.io/badge/-Tomcat-%23c4a03c?style=for-the-badge&logo=apachetomcat&logoColor=%23000000)](https://www.google.com)
 
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://www.google.com)
 [![Docker](https://img.shields.io/badge/-Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23ffffff)](https://www.google.com)
