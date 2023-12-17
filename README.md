@@ -32,6 +32,7 @@
 [![Spring](https://img.shields.io/badge/-Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=%23ffffff)](https://spring.io)
 [![Flask](https://img.shields.io/badge/-Flask-%235ca8c1?style=for-the-badge&logo=flask)](https://www.google.com)
 [![JQuery](https://img.shields.io/badge/-JQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23ffffff)](https://www.google.com)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://react.dev)
 <!--
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://www.google.com)
@@ -58,7 +59,7 @@
 [![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=for-the-badge&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)
 
-### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=flat&logo=nodedotjs)](https://www.google.com) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=express)](https://www.google.com)
+### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=flat&logo=nodedotjs)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=express)](https://www.google.com)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gli81&theme=dracula&exclude_repo=machine-learning,gl_mod)
 
