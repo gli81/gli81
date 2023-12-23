@@ -18,7 +18,7 @@
 [![Java](https://img.shields.io/badge/-Java-%23f89820?style=for-the-badge&logo=mocha&logoColor=%23ffffff)](https://www.java.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23000000?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=for-the-badge&logo=scala)](https://www.google.com)
-[![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=for-the-badge&logo=go&logoColor=%23ffffff)](https://www.google.com)
+[![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=for-the-badge&logo=go&logoColor=%23ffffff)](https://go.dev/)
 <!--
 [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=for-the-badge&logo=nodedotjs)](https://www.google.com)
 -->
