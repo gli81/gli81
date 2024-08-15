@@ -60,7 +60,7 @@
 
 ### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=flat&logo=nodedotjs)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=express)](https://www.google.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=flat&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gli81&hide=jupyter%20notebook,lua&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gli81&hide=jupyter%20notebook,lua&theme=github_dark&langs_count=20)
 
 
 <!--
