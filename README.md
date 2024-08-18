@@ -36,6 +36,7 @@
 [![Flask](https://img.shields.io/badge/-Flask-%235ca8c1?style=for-the-badge&logo=flask)](https://www.google.com)
 [![JQuery](https://img.shields.io/badge/-JQuery-%230769AD?style=for-the-badge&logo=jquery&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://react.dev)
+[![Gin](https://img.shields.io/badge/-gin-%2329BEB0?style=for-the-badge&logo=gin&logoColor=white)](https://www.google.com)
 <!--
 [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=%23ffffff)](https://www.google.com)
 [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)](https://www.google.com)
