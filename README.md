@@ -19,6 +19,10 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23000000?style=for-the-badge&logo=javascript)](https://www.javascript.com/)
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=for-the-badge&logo=scala)](https://www.google.com)
 [![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=for-the-badge&logo=go&logoColor=%23ffffff)](https://go.dev/)
+[![C](https://img.shields.io/badge/-C-%23558cf2?style=for-the-badge&logo=c&logoColor=white)](https://www.google.com)
+[![C](https://img.shields.io/badge/-C-%23558cf2?style=for-the-badge&logo=c&logoColor=white)](https://www.google.com)
+
+
 <!--
 [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=for-the-badge&logo=nodedotjs)](https://www.google.com)
 -->
@@ -58,7 +62,7 @@
 [![Hive](https://img.shields.io/badge/-Hive-%23CAB108?style=for-the-badge&logo=apachehive&logoColor=%23000000)](https://www.google.com)
 [![PostgresQL](https://img.shields.io/badge/-PostgresQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23ffffff)](https://www.google.com)
 
-### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=flat&logo=nodedotjs)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=express)](https://www.google.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=flat&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)
+### I'm currently learning [![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat&logo=springboot&logoColor=%23ffffff)](https://www.google.com) [![Nodejs](https://img.shields.io/badge/-Node.js-%23000000?style=flat&logo=nodedotjs)](https://www.google.com) [![Express](https://img.shields.io/badge/-Express-%23000000?style=flat&logo=express)](https://www.google.com) [![MongoDB](https://img.shields.io/badge/-MongoDB-%2369a24b?style=flat&logo=mongodb&logoColor=%23ffffff)](https://www.google.com)[![C++](https://img.shields.io/badge/-C%2B%2B-%23558cf2?style=flat&logo=c%2B%2B&logoColor=white)](https://www.google.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gli81&hide=jupyter%20notebook,lua&theme=github_dark&langs_count=8)
 
