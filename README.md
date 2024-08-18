@@ -20,7 +20,6 @@
 [![Scala](https://img.shields.io/badge/-Scala-%23DE3423?style=for-the-badge&logo=scala)](https://www.google.com)
 [![Go](https://img.shields.io/badge/-Go-%2329BEB0?style=for-the-badge&logo=go&logoColor=%23ffffff)](https://go.dev/)
 [![C](https://img.shields.io/badge/-C-%23558cf2?style=for-the-badge&logo=c&logoColor=white)](https://www.google.com)
-[![C](https://img.shields.io/badge/-C-%23558cf2?style=for-the-badge&logo=c&logoColor=white)](https://www.google.com)
 
 
 <!--
